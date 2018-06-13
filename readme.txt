@@ -6,6 +6,10 @@ Something that was forgotten.
 This is another cool line.
 Here you go.
 
+test1
+
 ok. Changed editor to emacs.
 more changes
 One more item.
+
+ok ok

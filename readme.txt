@@ -5,3 +5,4 @@ This is another cool line.
 Here you go.
 
 ok. Changed editor to emacs.
+more changes

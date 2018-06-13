@@ -3,3 +3,5 @@ Adding something new....
 Something that was forgotten.
 This is another cool line.
 Here you go.
+
+ok. Changed editor to emacs.
